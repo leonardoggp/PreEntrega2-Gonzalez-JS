@@ -1,0 +1,3 @@
+#Ignorar todos los archivos .TXT
+*.txt 
+app.js
